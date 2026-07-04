@@ -50,7 +50,7 @@ This project focuses on:
 
 # 📁 Project Structure
 
-```
+
 
 Decor-Section-URVORA/
 │
@@ -106,8 +106,6 @@ GitHub: https://github.com/manpreetkaur292006-design
 # ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
-
----
 
 ```
 ```
